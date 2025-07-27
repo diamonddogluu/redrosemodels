@@ -1,0 +1,8 @@
+{
+  "name": "redrosemodels",
+  "domains": ["redrosemodels.com", "www.redrosemodels.com"],
+  "buildCommand": "npm run build",
+  "outputDirectory": ".next",
+  "installCommand": "npm install",
+  "framework": "nextjs"
+} 
